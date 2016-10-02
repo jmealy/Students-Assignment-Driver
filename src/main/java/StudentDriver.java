@@ -1,6 +1,6 @@
 import org.joda.time.DateTime;
 
-public class StudentTest {
+public class StudentDriver {
 	
 	public static void main(String args[]){
 		
