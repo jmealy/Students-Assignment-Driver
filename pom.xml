@@ -6,11 +6,13 @@
   <name>Student Test</name>
   <description>project to test student project</description>
   <dependencies>
+  	
   	<dependency>
-  		<groupId>com.mealy.james</groupId>
-  		<artifactId>Students</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+	    <groupId>com.github.jmealy</groupId>
+	    <artifactId>Students</artifactId>
+	    <version>master-SNAPSHOT</version>
+	</dependency>
+  	
   </dependencies> 
   
 </project>
