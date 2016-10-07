@@ -5,14 +5,31 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Student Test</name>
   <description>project to test student project</description>
+  
+  <!--  
   <dependencies>
-  	
-  	<dependency>
+  <dependency>
+  	<groupId>com.mealy.james</groupId>
+  	<artifactId>Students</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  </dependencies>
+  -->
+  
+ 
+  <dependencies>
+  <dependency>
 	    <groupId>com.github.jmealy</groupId>
 	    <artifactId>Students</artifactId>
-	    <version>master-SNAPSHOT</version>
+	    <version>10f32642d9</version>
 	</dependency>
-  	
-  </dependencies> 
+  </dependencies>
+  
+  <repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
   
 </project>
